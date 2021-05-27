@@ -1,3 +1,3 @@
 # Testing Storybook Composition
 
-run `yarn storybook`
+run `yarn storybook`.
